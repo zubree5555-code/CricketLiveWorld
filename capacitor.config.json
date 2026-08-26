@@ -1,0 +1,9 @@
+{
+  "appId": "com.cricketliveworld.app",
+  "appName": "CricketLive World",
+  "webDir": "www",
+  "backgroundColor": "#0B1F17",
+  "android": {
+    "allowMixedContent": false
+  }
+}
